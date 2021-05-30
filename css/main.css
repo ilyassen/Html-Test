@@ -1,0 +1,32 @@
+body{
+    background-image: url("css/img/Naruto\ Sasuke\ Particle.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: black;
+    color : white; 
+
+   }
+
+p{
+    color: black;
+}
+div {
+    
+    /* background-color: grey;
+    background-size: 200%; */
+
+}
+.video {
+    padding-right: 100%;
+}
+
+.padding {
+    padding: 10px;
+}
+#my-title {
+    color: blue;
+}
+
+.hidden {
+    display: none;
+}
